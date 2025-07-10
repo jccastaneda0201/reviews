@@ -47,7 +47,7 @@ To allow the user to display a random person's review, you can set up a button w
 
 #### Extra
 
-The modulus operator in JavaScript is represented by the percent sign (%). It returns the remainder of a division operation between two numbers.
+The modulus operator "devuelve el resto de la división" in JavaScript is represented by the percent sign (%). It returns the remainder of a division operation between two numbers.
 
 Overall, the flow of the application should look something like this:
 
